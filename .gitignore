@@ -1,0 +1,14 @@
+# Local secrets and private drafts must never enter this public archive.
+.env
+.env.*
+!.env.example
+secrets/
+private-drafts/
+*.pem
+*.key
+*.p12
+*.pfx
+*.kdbx
+.DS_Store
+Thumbs.db
+desktop.ini
