@@ -13,6 +13,8 @@
 
 建议每个新 AI 会话先读 `README.md`、`workflow/preferences.md`、`identity/profile.md`，再按任务需要读取 `memory/`、`skills/` 和 `archive/`，避免不必要地摄入全部档案。
 
+对本档案用户的已知协作偏好：优先用简体中文，直接处理明确授权的工作；对配置和故障报告给出实际验证证据。不要新建用户未要求的 provider/API key，不要把未知个人背景写成事实。
+
 ## ChatGPT、Gemini、Claude 与其他助手
 
 1. 首选平台提供的 GitHub 连接器/应用，授权只读访问本仓库（需要写回时才授予写权限）。
