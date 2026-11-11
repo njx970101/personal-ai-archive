@@ -12,7 +12,7 @@
 | 工具 | 用途 | 使用偏好/约束 |
 | --- | --- | --- |
 | Windows / PowerShell | 日常设备与本地项目操作 | 时区配置为 Asia/Shanghai |
-| GitHub | 公开仓库、版本历史和个人档案 | `njx970101/personal-ai-archive` 是公开仓库；禁止发布密钥和私人资料 |
+| GitHub | 公开仓库、版本历史和个人档案 | `njx970101/personal-ai-archive` 是公开仓库；已有本地克隆和 GitHub CLI 时优先使用本地工具；禁止发布密钥和私人资料 |
 | DeepSeek Harness (DSH) | 9bot 的模型运行环境 | DSH 登录账号与 OpenAI 兼容 API key 是不同认证通道，需明确区分 |
 | Node.js / Git | 9bot 项目的开发、维护和验证 | 通过现有项目与 AI 编程协作 |
 
